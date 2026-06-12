@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 > - This public repository is a sanitized architecture skeleton of Luminy’s private production codebase.
-> - The full source code is private because Luminy is an active production platform w/ 1k+ real users & advanced new intelligence.
+> - The full source code is private because Luminy is an active production platform w/ 1k+ real users.
 
 # Luminyy
 
